@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/torrents-api)
+[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/rFMnIr84zHqcglFes)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/torrents-api)
+[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/rFMnIr84zHqcglFes)
 
 </div>
 
@@ -171,7 +171,7 @@ Integrate torrent search into your applications for free. **Torrents API – Tor
 
 <div align="center">
 
-[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/torrents-api)
+[![Download Torrents API](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/rFMnIr84zHqcglFes)
 
 **Version 3.0.0** — Free torrent search REST API. May 2026 update. Zero cost. No payment.
 
